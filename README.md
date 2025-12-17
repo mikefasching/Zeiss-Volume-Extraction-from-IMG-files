@@ -160,7 +160,6 @@ Optional arguments:
 This project is licensed under the **MIT License**.
 
 The code is provided “as is”, without warranty of any kind, express or implied.
-See the [LICENSE](LICENSE) file for details.
 
 > This repository contains **code only** and does **not** include or distribute any patient data.
 
